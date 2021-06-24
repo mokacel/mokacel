@@ -1,2 +1,7 @@
-### about me
-Hi there! My name is Maurine and I am a UX/UI, web designer currently and working hard to become a front-end developer particularly in javascript related stacks. I have an educational background in computer sciences and game design. I am currently a part-time worker at Rimote Media as web designer and working on several side projects.
+# maurine kacel
+Web developer located in Barcelona, working @ [Makers99](https://makers99.com)
+
+* Learning NextJS, React and headless CMS systems like CraftCMS
+* Working on Wordpress ecommerce front-end
+* Background in web design and UX/UI projects
+* Game designer at heart and currently learning UI programing 
